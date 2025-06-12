@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586392715477",
+    "project_id": "toko-online-caca7",
+    "storage_bucket": "toko-online-caca7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586392715477:android:537c8178766502102ca25c",
+        "android_client_info": {
+          "package_name": "com.example.fluttertokoonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARc7istTU0lcfhF_7xDSVmGGoR59GTVCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
